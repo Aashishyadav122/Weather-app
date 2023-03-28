@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  /* font-family:   Tahoma, Geneva, Verdana, sans-serif; */
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-family: cursive;
+  /* border: 2px solid black; */
 }
 
 .App-logo {
